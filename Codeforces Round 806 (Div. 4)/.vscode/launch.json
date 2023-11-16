@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/DSP Codeforces/Codeforces Round 806 (Div. 4)",
+      "program": "d:/DSP Codeforces/Codeforces Round 806 (Div. 4)/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
